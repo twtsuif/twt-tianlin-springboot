@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: qnhd
+  profiles:
+    active: dev
